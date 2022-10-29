@@ -1,0 +1,6 @@
+   
+var expences = {'sun':3000.0,'mon':3000.0,'tue':3234.0};
+   var map = expences.putIfAbsent('fri',()=>5000.0); 
+   print(expences);
+         }
+   

@@ -1,0 +1,2 @@
+var map2 = {"name": "ahsan","phone": "android" ,"name1":"feroze" ,"phone2": "iphone"};
+  print(map2.length);

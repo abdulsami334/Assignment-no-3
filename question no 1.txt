@@ -1,0 +1,4 @@
+ void main() {
+  List mylist1 = ["hassan","wahab", "fahad"];
+   print(mylist1);
+  

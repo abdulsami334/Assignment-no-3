@@ -1,0 +1,5 @@
+  
+var world = {'Country': 'Pakistan','CapitalCity':'Islamabad','Currency':'Rupees','language' :'Urdu'};
+   world.forEach((key,val){
+     print('$key:$val');
+   });

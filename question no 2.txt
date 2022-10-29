@@ -1,0 +1,3 @@
+List mylist=[];
+  mylist.addAll(["monday","tuesday","wednesday","thursday","friday","saturday","sunday"]); 
+ print(mylist);

@@ -1,0 +1,3 @@
+  List mylist2 = ["Kaif","Hassan","Sherry","Ahtisham","Ali","Ahsan","Abdul Rauf"];
+  mylist2.sort();
+  print(mylist2);

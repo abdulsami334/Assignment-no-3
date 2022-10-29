@@ -1,0 +1,5 @@
+ 
+  
+var map1 = {"name" : "Ali","adress" : "H no 9","age":17,"Country name":"Pakistan"};
+  map1.putIfAbsent("Country name update",()=> "Australia" );
+  print(map1);
